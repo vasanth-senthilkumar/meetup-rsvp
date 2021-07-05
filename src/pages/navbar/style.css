@@ -1,0 +1,36 @@
+.navlink {
+  padding: .7em;
+  color: #d5d5d5;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navlink:visited {
+  color: #c5c5c5;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+.navbar-brand>img {
+  padding: 7px 14px;
+}
+
+.mylogo { 
+  color: #d5d5d5;
+  font-size: 24px;
+  font-family: 'Playfair Display', serif;
+}
+
+.mylogo:visited {
+  color: #c5c5c5;
+}
+
+.logout{
+  padding-left: .7em;
+  font-family: 'Roboto', sans-serif;
+}
+
+.logout:hover{
+  cursor: pointer;
+}

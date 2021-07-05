@@ -1,0 +1,31 @@
+/* .confStartDates {
+    width: 25vw;
+}
+
+.confEndDates  {
+    width: 25vw;
+} */
+
+.confForm {
+    width: 50vw;
+    margin-left: 24vw;
+    text-align: left;
+}
+
+.submitBtn {
+    margin-left: 2vw;
+}
+
+  
+ #confTypeLive{
+     margin-right: 4px;
+    
+ }
+
+#confTypeVirtual {
+    margin-right: 4px;
+}
+
+#sessionDate {
+    width: 10vw;
+}
